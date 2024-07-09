@@ -1,0 +1,7 @@
+﻿#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/ca.xml"
+#EXTINF:-1 group-title="News & Opinion" tvg-id="CABC2300009KD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20240527T200831SQUARE.png" ,CBC News Explore
+https://jmp2.uk/SamsungTVPlus/CABC2300009KD.m3u8
+#EXTINF:-1 group-title="News & Opinion" tvg-id="CAAJ2700011IF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700011IF_20231129T022404SQUARE.png_20231129022405.png" ,NBC News NOW
+https://jmp2.uk/SamsungTVPlus/CAAJ2700011IF.m3u8
+#EXTINF:-1 group-title="News & Opinion" tvg-id="CABC23000223U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000223U_20230222T042958SQUARE.png_20230222042958.png" ,The Weather Network
+https://jmp2.uk/SamsungTVPlus/CABC23000223U.m3u8
