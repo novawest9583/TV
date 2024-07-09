@@ -1,0 +1,9 @@
+﻿#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/ca.xml"
+#EXTINF:-1 group-title="News + Opinion" tvg-id="62cbef9ebb857100072fc187" tvg-logo="https://images.pluto.tv/channels/62cbef9ebb857100072fc187/colorLogoPNG.png" ,Global News National
+https://jmp2.uk/PlutoTV/62cbef9ebb857100072fc187-alt.m3u8
+#EXTINF:-1 group-title="News + Opinion" tvg-id="63da370e2e477400081cf8b6" tvg-logo="https://images.pluto.tv/channels/63da370e2e477400081cf8b6/colorLogoPNG.png" ,The Weather Network
+https://jmp2.uk/PlutoTV/63da370e2e477400081cf8b6-alt.m3u8
+#EXTINF:-1 group-title="News + Opinion" tvg-id="6350fdd266e9ea0007bedec5" tvg-logo="https://images.pluto.tv/channels/6350fdd266e9ea0007bedec5/colorLogoPNG.png" ,CBS News 24/7
+https://jmp2.uk/PlutoTV/6350fdd266e9ea0007bedec5-alt.m3u8
+#EXTINF:-1 group-title="News + Opinion" tvg-id="62b976b93279cb000772c6f9" tvg-logo="https://images.pluto.tv/channels/62b976b93279cb000772c6f9/colorLogoPNG.png" ,Bloomberg TV+
+https://jmp2.uk/PlutoTV/62b976b93279cb000772c6f9-alt.m3u8

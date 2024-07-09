@@ -1,0 +1,13 @@
+﻿#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/ca.xml"
+#EXTINF:-1 group-title="Comedy" tvg-id="62e92178946c8000079a3160" tvg-logo="https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png" ,Pluto TV Comedy
+https://jmp2.uk/PlutoTV/62e92178946c8000079a3160-alt.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-id="62bdb5500c21270007218ce1" tvg-logo="https://images.pluto.tv/channels/62bdb5500c21270007218ce1/colorLogoPNG.png" ,FailArmy
+https://jmp2.uk/PlutoTV/62bdb5500c21270007218ce1-alt.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-id="6479c171536e0c0008942590" tvg-logo="https://images.pluto.tv/channels/6479c171536e0c0008942590/colorLogoPNG.png" ,Pluto TV Truly Canadian
+https://jmp2.uk/PlutoTV/6479c171536e0c0008942590-alt.m3u8
+#EXTINF:-1 group-title="Comedy Central" tvg-id="64f8a408bd341e000818fcda" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" ,Comedy Central
+https://jmp2.uk/PlutoTV/64f8a408bd341e000818fcda-alt.m3u8
+#EXTINF:-1 group-title="Comedy Central" tvg-id="64f8a949f5b5e4000862467c" tvg-logo="https://images.pluto.tv/channels/64f8a949f5b5e4000862467c/colorLogoPNG.png" ,Comedy Central Animation
+https://jmp2.uk/PlutoTV/64f8a949f5b5e4000862467c-alt.m3u8
+#EXTINF:-1 group-title="Comedy Central" tvg-id="64f8a9ccd661bb00081bd93a" tvg-logo="https://images.pluto.tv/channels/64f8a9ccd661bb00081bd93a/colorLogoPNG.png" ,Comedy Central Stand-Up
+https://jmp2.uk/PlutoTV/64f8a9ccd661bb00081bd93a-alt.m3u8

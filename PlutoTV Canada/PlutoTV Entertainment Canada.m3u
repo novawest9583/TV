@@ -1,0 +1,21 @@
+﻿#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/ca.xml"
+#EXTINF:-1 group-title="Sci-Fi + Supernatural" tvg-id="62e92a58f3e4290007290c96" tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" ,Pluto TV Paranormal
+https://jmp2.uk/PlutoTV/62e92a58f3e4290007290c96-alt.m3u8
+#EXTINF:-1 group-title="Drama" tvg-id="62fb9ade112ca70007d8441d" tvg-logo="https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/colorLogoPNG.png" ,Nonstop Drama
+https://jmp2.uk/PlutoTV/62fb9ade112ca70007d8441d-alt.m3u8
+#EXTINF:-1 group-title="Drama" tvg-id="655230a4f8259d000800579e" tvg-logo="https://images.pluto.tv/channels/655230a4f8259d000800579e/colorLogoPNG.png" ,Love Drama
+https://jmp2.uk/PlutoTV/655230a4f8259d000800579e-alt.m3u8
+#EXTINF:-1 group-title="Game Shows" tvg-id="62e90e8cb05d2b0007f10a61" tvg-logo="https://images.pluto.tv/channels/62e90e8cb05d2b0007f10a61/colorLogoPNG.png" ,Game Show Central
+https://jmp2.uk/PlutoTV/62e90e8cb05d2b0007f10a61-alt.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="62e93d0a80d8d10008a0181e" tvg-logo="https://images.pluto.tv/channels/62e93d0a80d8d10008a0181e/colorLogoPNG.png" ,Nosey
+https://jmp2.uk/PlutoTV/62e93d0a80d8d10008a0181e-alt.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="638e0f4832494900074481e7" tvg-logo="https://images.pluto.tv/channels/638e0f4832494900074481e7/colorLogoPNG.png" ,Confess by Nosey
+https://jmp2.uk/PlutoTV/638e0f4832494900074481e7-alt.m3u8
+#EXTINF:-1 group-title="Factual" tvg-id="62fb9844db5a4a0007ebc2a3" tvg-logo="https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png" ,Beyond History
+https://jmp2.uk/PlutoTV/62fb9844db5a4a0007ebc2a3-alt.m3u8
+#EXTINF:-1 group-title="Factual" tvg-id="62bdaf9cf1bdc500073a8bcb" tvg-logo="https://images.pluto.tv/channels/62bdaf9cf1bdc500073a8bcb/colorLogoPNG.png" ,Declassified
+https://jmp2.uk/PlutoTV/62bdaf9cf1bdc500073a8bcb-alt.m3u8
+#EXTINF:-1 group-title="Factual" tvg-id="64e89cfc9c1e3900084ca663" tvg-logo="https://images.pluto.tv/channels/64e89cfc9c1e3900084ca663/colorLogoPNG.png" ,Real Disaster Channel
+https://jmp2.uk/PlutoTV/64e89cfc9c1e3900084ca663-alt.m3u8
+#EXTINF:-1 group-title="Factual" tvg-id="653bdb0fbdf3cf00089cc395" tvg-logo="https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png" ,Pluto TV Adventure
+https://jmp2.uk/PlutoTV/653bdb0fbdf3cf00089cc395-alt.m3u8
