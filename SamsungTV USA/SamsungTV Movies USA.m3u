@@ -1,0 +1,33 @@
+﻿#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/us.xml"
+#EXTINF:-1 group-title="Movies" tvg-id="USBD270001633" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20240520T222906SQUARE.png" ,Hallmark Movies & More
+https://jmp2.uk/SamsungTVPlus/USBD270001633.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="USBB5200019FO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20240611T050335SQUARE.png" ,Movie Favorites by Lifetime
+https://jmp2.uk/SamsungTVPlus/USBB5200019FO.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="USBD17000117B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20240520T223358SQUARE.png" ,MovieSphere
+https://jmp2.uk/SamsungTVPlus/USBD17000117B.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="USBA300017PK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20240520T222742SQUARE.png" ,Pluto TV Fantastic
+https://jmp2.uk/SamsungTVPlus/USBA300017PK.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="US18000163F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20240709T002201SQUARE.png" ,Miramax Channel
+https://jmp2.uk/SamsungTVPlus/US18000163F.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="USAJ30000148W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20240520T222614SQUARE.png" ,CINEVAULT
+https://jmp2.uk/SamsungTVPlus/USAJ30000148W.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="USBB3200015M8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200015M8_20240520T222842SQUARE.png" ,CINEVAULT: Classics
+https://jmp2.uk/SamsungTVPlus/USBB3200015M8.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20240520T222740SQUARE.png" ,Paramount Movie Channel
+https://jmp2.uk/SamsungTVPlus/USAJ26000054W.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="USBB3200030CG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200030CG_20240611T050314SQUARE.png" ,Movies on the Rotten Tomatoes Channel
+https://jmp2.uk/SamsungTVPlus/USBB3200030CG.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="USBD700011RE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20240520T222902SQUARE.png" ,Gravitas Movies
+https://jmp2.uk/SamsungTVPlus/USBD700011RE.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="USBC3900018K6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900018K6_20240520T223400SQUARE.png" ,MyTime Movie Network
+https://jmp2.uk/SamsungTVPlus/USBC3900018K6.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="USBC2100007I2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100007I2_20240520T222844SQUARE.png" ,Chicken Soup for the Soul
+https://jmp2.uk/SamsungTVPlus/USBC2100007I2.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="USAJ30000122O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20240520T222734SQUARE.png" ,NEW KMOVIES
+https://jmp2.uk/SamsungTVPlus/USAJ30000122O.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="USAJ3000007MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20240520T222716SQUARE.png" ,Maverick Black Cinema
+https://jmp2.uk/SamsungTVPlus/USAJ3000007MT.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="USAJ40000072X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ40000072X_20240520T222643SQUARE.png" ,FilmRise Free Movies
+https://jmp2.uk/SamsungTVPlus/USAJ40000072X.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="USBB3200020ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200020ID_20240520T222641SQUARE.png" ,FilmRise Action
+https://jmp2.uk/SamsungTVPlus/USBB3200020ID.m3u8

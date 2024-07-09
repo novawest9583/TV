@@ -1,0 +1,31 @@
+﻿#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/us.xml"
+#EXTINF:-1 group-title="News & Opinion" tvg-id="USBA370000104" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20240520T222610SQUARE.png" ,CBS News 24/7
+https://jmp2.uk/SamsungTVPlus/USBA370000104.m3u8
+#EXTINF:-1 group-title="News & Opinion" tvg-id="USBC39000171G" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20240520T223555SQUARE.png" ,ABC News Live
+https://jmp2.uk/SamsungTVPlus/USBC39000171G.m3u8
+#EXTINF:-1 group-title="News & Opinion" tvg-id="USBB2200014DK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20240520T222732SQUARE.png" ,NBC News NOW
+https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
+#EXTINF:-1 group-title="News & Opinion" tvg-id="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20240520T222706SQUARE.png" ,LiveNOW from FOX
+https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8
+#EXTINF:-1 group-title="News & Opinion" tvg-id="USBD3000073N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20240520T223411SQUARE.png" ,Scripps News
+https://jmp2.uk/SamsungTVPlus/USBD3000073N.m3u8
+#EXTINF:-1 group-title="News & Opinion" tvg-id="USBD700003L7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20240520T222853SQUARE.png" ,FOX Weather
+https://jmp2.uk/SamsungTVPlus/USBD700003L7.m3u8
+#EXTINF:-1 group-title="News & Opinion" tvg-id="US4000033L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20240520T223600SQUARE.png" ,BBC News
+https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
+#EXTINF:-1 group-title="News & Opinion" tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240520T223417SQUARE.png" ,Sky News
+https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
+#EXTINF:-1 group-title="News & Opinion" tvg-id="USAJ3400011A8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400011A8_20240520T222836SQUARE.png" ,Bloomberg TV+ UHD
+https://jmp2.uk/SamsungTVPlus/USAJ3400011A8.m3u8
+#EXTINF:-1 group-title="News & Opinion" tvg-id="USAJ30000041W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000041W_20240520T222834SQUARE.png" ,Bloomberg Originals
+https://jmp2.uk/SamsungTVPlus/USAJ30000041W.m3u8
+#EXTINF:-1 group-title="News & Opinion" tvg-id="USAJ4300005PJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20240520T222814SQUARE.png" ,Yahoo Finance
+https://jmp2.uk/SamsungTVPlus/USAJ4300005PJ.m3u8
+#EXTINF:-1 group-title="News & Opinion" tvg-id="USBA300028QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300028QU_20240520T222736SQUARE.png" ,NEWSMAX2
+https://jmp2.uk/SamsungTVPlus/USBA300028QU.m3u8
+#EXTINF:-1 group-title="News & Opinion" tvg-id="USBB1900002KF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900002KF_20240520T222747SQUARE.png" ,Real America's Voice
+https://jmp2.uk/SamsungTVPlus/USBB1900002KF.m3u8
+#EXTINF:-1 group-title="News & Opinion" tvg-id="US1000016Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000016Q_20240520T223423SQUARE.png" ,The First
+https://jmp2.uk/SamsungTVPlus/US1000016Q.m3u8
+#EXTINF:-1 group-title="News & Opinion" tvg-id="USBA30002142" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA30002142_20240520T222804SQUARE.png" ,TYT Network
+https://jmp2.uk/SamsungTVPlus/USBA30002142.m3u8
