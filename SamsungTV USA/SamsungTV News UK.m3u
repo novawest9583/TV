@@ -1,0 +1,13 @@
+﻿#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/gb.xml"
+#EXTINF:-1 group-title="News" tvg-id="GBAJ4900020VP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900020VP_20230222T011312SQUARE.png_20230222011313.png" ,Euronews Live
+https://jmp2.uk/SamsungTVPlus/GBAJ4900020VP.m3u8
+#EXTINF:-1 group-title="News" tvg-id="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20230308T021053SQUARE.png_20230308021054.png" ,CNN
+https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
+#EXTINF:-1 group-title="News" tvg-id="GB1300001RX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1300001RX_20240611T062009SQUARE.png" ,DW
+https://jmp2.uk/SamsungTVPlus/GB1300001RX.m3u8
+#EXTINF:-1 group-title="News" tvg-id="GBBD1100002L5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100002L5_20230823T033121SQUARE.png_20230823033121.png" ,FRANCE 24 FAST
+https://jmp2.uk/SamsungTVPlus/GBBD1100002L5.m3u8
+#EXTINF:-1 group-title="News" tvg-id="GBBB1500004LG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1500004LG_20230913T031533SQUARE.png_20230913031533.png" ,NBC News NOW
+https://jmp2.uk/SamsungTVPlus/GBBB1500004LG.m3u8
+#EXTINF:-1 group-title="News" tvg-id="GBBA3300033C2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300033C2_20221026T004719SQUARE.png_20221026004720.png" ,Bloomberg TV+
+https://jmp2.uk/SamsungTVPlus/GBBA3300033C2.m3u8
