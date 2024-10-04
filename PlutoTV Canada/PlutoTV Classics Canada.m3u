@@ -1,7 +1,0 @@
-﻿#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/ca.xml"
-#EXTINF:-1 group-title="Classic TV" tvg-id="630f1e6073bd1800082107f0" tvg-logo="https://images.pluto.tv/channels/630f1e6073bd1800082107f0/colorLogoPNG.png" ,Pluto TV Retro Crime Drama
-https://jmp2.uk/PlutoTV/630f1e6073bd1800082107f0-alt.m3u8
-#EXTINF:-1 group-title="Classic TV" tvg-id="62e91af00c43540007f2bb43" tvg-logo="https://images.pluto.tv/channels/62e91af00c43540007f2bb43/colorLogoPNG.png" ,Pluto TV Classic TV Families
-https://jmp2.uk/PlutoTV/62e91af00c43540007f2bb43-alt.m3u8
-#EXTINF:-1 group-title="Classic TV" tvg-id="62bdacc96a3751000811842d" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" ,Pluto TV Westerns
-https://jmp2.uk/PlutoTV/62bdacc96a3751000811842d-alt.m3u8
