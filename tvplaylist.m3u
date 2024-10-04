@@ -1,35 +1,13 @@
 #EXTM3U
-#EXTINF:-1 ,CBC Nova Scotia
-https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
-#EXTINF:-1 ,Global News National
-https://dai.google.com/linear/hls/pa/event/cQOVg6jKSvusQAfYpTrUoQ/stream/ef5bfd88-5b95-42b6-b040-0f11209b353d:CBF2/master.m3u8
-#EXTINF:-1 ,CTV Newscasts
-https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
-#EXTINF:-1 ,The Weather Network
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
-#EXTINF:-1 ,ION TV
-https://scripps-ion-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,ION TV Mystery
-https://scripps-ionmystery-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Grit Xtra
-https://scripps-gritxtra-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Laff More
-https://scripps-laffmore-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Bounce XL
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bounce-XL.m3u8
-#EXTINF:-1 ,WFMZ Wilmington
-https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
-#EXTINF:-1 ,KCWX San Antonio (MyNetworkTV)
-http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:-1 ,MPT Baltimore (PBS)
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 ,MPT Baltimore (PBS Create)
-https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-#EXTINF:-1 ,KET Louisville (PBS)
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 ,KET2 Louisville (PBS)
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
-#EXTINF:-1 ,KET3 Louisville (PBS World)
-https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
-#EXTINF:-1 ,KET-KY Louisville (IND)
-https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400004AE_20240709T002014SQUARE.png" ,CTV News
+https://jmp2.uk/sam-CA1400004AE.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20240527T200831SQUARE.png" ,CBC News Explore
+https://jmp2.uk/sam-CABC2300009KD.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700011IF_20231129T022404SQUARE.png_20231129022405.png",NBC News NOW
+https://jmp2.uk/sam-CAAJ2700011IF.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000223U_20230222T042958SQUARE.png_20230222042958.png",The Weather Network
+https://jmp2.uk/sam-CABC23000223U.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB1900002SS_20230614T000738SQUARE.png_20230614000739.png",Nosey
+https://jmp2.uk/sam-CABB1900002SS.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB19000010Y_20240527T200837SQUARE.png" ,Circle
+https://jmp2.uk/sam-CABB19000010Y.m3u8
