@@ -1,0 +1,147 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="News" ,CBC News Explore
+https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
+#EXTINF:0 group-title="News" ,CBC News Network
+https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
+#EXTINF:0 group-title="News" ,Cable News Network
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 group-title="News" ,CTV News
+https://amg00089-bellmedia-amg00089c3-lg-ca-2995.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
+#EXTINF:-1 group-title="News" ,OAN Plus
+https://oan-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News" ,Scripps News
+https://scripps-newsy-3-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="News" ,Euro News
+https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="News" ,Africa News
+https://rakuten-africanews-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="News" ,CityNews Toronto
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:0 group-title="News" ,CityNews Vancouver
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+#EXTINF:60 group-title="News" ,BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:0 group-title="Webstream" ,CHCO-TV
+https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
+#EXTINF:0 group-title="Webstream" ,NTV+
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 group-title="Weather" ,Accuweather
+https://accuweatherx-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Weather" ,The Weather Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Business" ,Bloomberg Originals
+https://bloomberg-quicktake-4-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Business" ,Bloomberg TV 4K
+https://bloomberg-bloombergtv-9-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Courts & Real Crime" ,Court TV
+https://scripps-courttv-3-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Courts & Real Crime" ,Real Crime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimealpha-lggb/playlist.m3u8
+#EXTINF:-1 group-title="Game Shows" ,Buzzr
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8
+#EXTINF:-1 group-title="Comedy" ,Comedy Dynamics
+https://cinedigm-comedydynamics-lg-ca.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Comedy" ,CTV Laughs
+https://amg00089-bellmedia-amg00089c10-lg-ca-3225.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvlaughs-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Comedy" ,Fail Army International
+https://jukin-failarmy-international-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Talk Shows" ,Nosey
+https://nosey-intl-1-lg-ca.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Talk Shows" ,Judge Nosey
+https://realnosey-lg-us.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="Entertainment" ,CBC Nova Scotia
+https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
+#EXTINF:0 group-title="Entertainment" ,CBC Comedy
+https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master.m3u8
+#EXTINF:-1 group-title="Entertainment" ,ION TV
+https://scripps-ion-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" ,ION Mystery
+https://scripps-ionmystery-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:21 group-title="Entertainment" ,Paramount Network
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0 group-title="Entertainment" ,TBS Network
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Grit Xtra
+https://scripps-gritxtra-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Laff More
+https://scripps-laffmore-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" ,So...Real
+https://cinedigm-soreal-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Cinevault 80s
+https://gsn-cinevault-80s-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Cinevault Classics
+https://gsn-cinevault-classics-2-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Cinevault Westerns
+https://gsn-cinevault-westerns-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" ,The Country Network
+https://amg00600-tcn-amg00600c1-lg-ca-1010.playouts.now.amagi.tv/playlist/amg00600-thecountrynetworkfast-thecountrynetwork-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Lonestar
+https://cinedigm-lonestar-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Declassified
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Maverick Black Cinema
+https://maverick-maverick-black-cinema-2-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Revolt TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-revolttv-lgau/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyles" ,Tastemade
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemade-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyles" ,Tastemade Home
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-lgus/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyles" ,AWE
+https://awe-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyles" ,CTV Home
+https://amg00089-bellmedia-amg00089c9-lg-ca-3224.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvhome-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyles" ,Fashion TV
+https://fashiontv-fashiontv-5-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyles" ,Go USA
+https://brandusa-gousa-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyles" ,Gusto TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvca-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyles" ,Homeful
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/bamcanada-bamca-homeful-us-lg/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyles" ,LoveNature
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyles" ,Real Life
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallife-lggb/playlist.m3u8
+#EXTINF:60 group-title="Sports" ,Game+
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:22 group-title="Sports" ,NBC Golf
+https://tx1.nexgen.bz/GOLF/index.m3u8
+#EXTINF:-1 group-title="Sports" ,TSN The Ocho
+https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-tsntheocho-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,DAZN
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazntv-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,Fubo Sports
+https://fubotv-fubo-sports-network-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,Fuel TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,Origin Sports
+https://raycomsports-originsports-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,Real Madrid TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/xumo-host-realmadridtv-lg/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,Sportsgrid
+https://sportsgrid-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,StrongMans Champion League
+https://rightsboosterltd-scl-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,Unbeaten
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeatengb-lggb/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,Waypoint TV
+https://waypointtv-lg-ca.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,Womens Sports Network
+https://womensnetwork-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,People are Awesome
+https://jukin-peopleareawesome-international-4-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" ,Dove Channel
+https://cinedigm-dovenow-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" ,Free Movies Plus
+https://amg02042-ottstudio-amg02042c1-lg-ca-932.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Movies" ,Haunt TV
+https://bamca-haunttv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" ,Mytime Movie Network
+https://cinedigm-mytime-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" ,Tribeca
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02507-giantpictures-tribeca-lgca/playlist.m3u8
+#EXTINF:0 group-title="French" ,CBC French
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
+#EXTINF:0 group-title="French" ,CBC News French
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
