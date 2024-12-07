@@ -1,7 +1,0 @@
-﻿#EXTM3U
-#EXTINF:-1 group-title="Undefined" tvg-id="WMAQDT1.us" tvg-logo="https://i.imgur.com/wblxisu.png" ,WMAQ Chicago (NBC)
-http://143.244.60.30/NBC_EAST/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="WFMZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png" ,WFMZ Wilmington (IND)
-https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="KCWXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/MNTV-KCWX_Custom_Logo_7-3.png" ,KCWX San Antonio (MyNetworkTV)
-http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
