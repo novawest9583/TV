@@ -1,101 +1,125 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://d3gypb03kkyu14.cloudfront.net/CBC-News-Explore/Rebrand/LG/Logo/552x200.png" ,CBC News Explore
-https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
-#EXTINF:-1 tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/bctne/CTVNews_LG_FAST_Logo.png" ,CTV News
-https://amg00089-bellmedia-amg00089c3-lg-ca-2995.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABCNewsLive/abc_logo_new.png" ,ABC News Live
-https://amg00497-lgus-amg00497c3-lg-us-2779.playouts.now.amagi.tv/playlist/amg00497-lgelectronicsusafast-abcnewslive-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992212/600x200.png?type=white_cropped" ,NBC News NOW
-https://d4whmvwm0rdvi.cloudfront.net/10007/99992212/hls/master.m3u8?ads.xumo_channelId=99992212&ads.asnw=169843&ads.afid=137704898&ads.sfid=16373024&ads.csid=lgchannels_us_nbcnewsnow_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.channelId=99992212&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#EXTINF:-1 tvg-logo="https://d3rimcir91uaav.cloudfront.net/196481_LG_LiveNow_Logo_White_800x200_001.png" ,LiveNOW from FOX
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cnnus/CNN_Headlines_International_LG_white_400x200px.png" ,CNN Headlines
-https://amg01918-cnnus-amg01918c1-lg-us-1911.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnheadlines-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/Newsmax+Logo_200x800.png" ,NewsMax
-https://amg00217-newsmax-amg00217c2-lg-ca-4271.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/reuters/Reuters_Logo.png" ,Reuters
-https://amg00453-reuters-amg00453c1-lg-us-2227.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1149/lg/d696f2/LG-Logo-PNG-100x100_v1.png" ,Scripps News
-https://wurlewscripps.global.transmit.live/hls/68faa73efbc5325e16c2ba0a/v1/scripps_newsy_3/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1149&wurl_name=ScrippsNews&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1655/lg/9ba693/LG-Logo-PNG-100x100_v1.png" ,BBC News
-https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/amcnetworks_bbcnews_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1655&wurl_name=BBCNews&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cnnus/CNN_Originals_800x200_Logo_White_n.png" ,CNN Originals
-https://amg01918-cnnus-amg01918c2-lg-us-5721.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/fox-weather/FoxWeather_White_Logo_400x200.png" ,Fox Weather
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01542-foxweatherllc-foxweather-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1 tvg-logo="https://d2r0saxmiywdq6.cloudfront.net/LG_Ch_Logo2_800x200.png" ,AccuWeather
-https://accuweatherx-lg.amagi.tv/hls/amagi_hls_data_accuweath-accuweather-lg/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.hoteltype=[HOTELTYPE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1 tvg-logo="https://d10pnlorujdrbi.cloudfront.net/LG-TWN_Logo_White-image.png" ,The Weather Network
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1654/lg/f3f632/LG-Logo-PNG-100x100_v2.png" ,Bloomberg TV+
-https://def7942b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQmxvb21iZXJnVFZQbHVzU2FmZUNBX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1653-LG-Logo-PNG-100x100_v1.png" ,Bloomberg Originals
-https://e55ff5c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQmxvb21iZXJnT3JpZ2luYWxzU2FmZUNBX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1116/lg/c1228b/LG-Logo-PNG-100x100_v1.png" ,ION
-https://wurlewscripps.global.transmit.live/hls/68962b3c9b574d4b1045a55a/v1/scripps_ion_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1116&wurl_name=ION&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/378/lg/165a68/LG-Logo-PNG-100x100_v1.png" ,ION Plus
-https://wurlewscripps.global.transmit.live/hls/6994c4740198ca4590f9e0c0/v1/ion_ion_plus_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=378&wurl_name=IonPlus&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1206/lg/4adf47/LG-Logo-PNG-100x100_v2.png" ,ION Mystery
-https://wurlewscripps.global.transmit.live/hls/68f94986a2037bf6aaa6d716/v1/scripps_ionmystery_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1206&wurl_name=IONMystery&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/gsn/channels/1074-400x200.png?1" ,GET
-https://53b950eaf1ae4b1aaabf8f402d7a372a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-LG_US/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/830-LG-Logo-PNG-100x100_v1.png" ,GET Comedy
-https://wurlgameshownetwork.global.transmit.live/hls/68d4573ddb0947415870620c/v1/gsn_cinevault_70s_1/lg_ca/latest/main/hls/playlist.m3u8?wurl_channel=830&wurl_name=GETComedy&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1208/lg/049016/LG-Logo-PNG-100x100_v1.png" ,Grit Xtra
-https://wurlewscripps.global.transmit.live/hls/68f6af393617a3dcae3e8c17/v1/scripps_gritxtra_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1208&wurl_name=GritXtra&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-Logo-PNG-100x100_v1.png" ,Laff More
-https://wurlewscripps.global.transmit.live/hls/68faa8c23714adc3f0f25388/v1/scripps_laffmore_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1498&wurl_name=LaffMore&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/938/lg/cbdf14/LG-Logo-PNG-100x100_v1.png" ,Bounce XL
-https://wurlewscripps.global.transmit.live/hls/68dab6f2432018160a46f75e/v1/scripps_bouncexl_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=938&wurl_name=BounceXL&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-logo="https://d3p7no563qx06c.cloudfront.net/EPG/S3/images/buzzr_logo.png" ,Buzzr
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/416-LG-Logo-PNG-100x100_v3.png" ,Game Show Central
-https://wurlgameshownetwork.global.transmit.live/hls/68e038201e473901e3742067/v1/gsn_gameshowchannnel_1/lg_ca/latest/main/hls/playlist.m3u8?wurl_channel=416&wurl_name=GameShowCentral-1&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1490/lg/7a03e0/LG-Logo-PNG-100x100_v1.png" ,Court TV
-https://wurlewscripps.global.transmit.live/hls/68fbfd86adbc824c98c44faa/v1/scripps_courttv_3/lg_ca/latest/main/hls/playlist.m3u8?wurl_channel=1490&wurl_name=CourtTV&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1497/lg/fdcb5e/LG-Logo-PNG-100x100_v1.png" ,Court TV Legendary Trials
-https://d73c4df2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQ291cnRUVkxlZ2VuZGFyeVRyaWFsc19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/226/lg/649349/LG-Logo-PNG-100x100_v1.png" ,Law & Crime
-https://wurllawnewz.global.transmit.live/hls/68dc523c2aa9a163d81820fa/v1/lawandcrime_samsung/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=226&wurl_name=LawandCrime&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-logo="https://d3icg9l6jqq36d.cloudfront.net/NINTL1/Nosey_LG_Logo_white_800x200.png" ,Nosey
-https://nosey-intl-1-lg-ca.amagi.tv/hls/amagi_hls_data_noseyAAAA-noseyintl1-lg-ca/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993016/600x200.png?type=white_cropped" ,NBC Comedy Vault
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993016/hls/master.m3u8?ads.xumo_channelId=99993016&ads.asnw=169843&ads.afid=380749282&ads.sfid=17556801&ads.csid=lgchannels_us_nbcutnbc_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=Comedy,Entertainment,GV&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3941&ads.xumo_contentName=NBCUTNBC&ads.xumo_providerId=3941&ads.xumo_providerName=NBCUTNBC&ads.channelId=99993016&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/cineverse/channels/ComedyDynamics_Vector_Yellow_v1.png" ,Comedy Dynamics
-https://linear-903.frequency.stream/dist/lg-ca/903/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1160/lg/847773/LG-Logo-PNG-100x100_v1.png" ,FailArmy
-https://tmbijukin.global.transmit.live/hls/69123cd54b85f7b9a706aca9/v1/jukin_failarmy_international_1/lg_ca/latest/main/hls/playlist.m3u8?wurl_channel=1160&wurl_name=FailArmy&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1869-LG-Logo-PNG-100x100_v2.png" ,So… Real
-https://wurlcineverse.global.transmit.live/hls/690bb8edb094858d3bc97ced/playlist.m3u8?wurl_channel=1869&wurl_name=SoReal&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-logo="https://d190bhqtoid3b.cloudfront.net/Images/S3/LG_Artwork/Declassified_800x200_Logo.png" ,Declassified
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Curiosity%20Now/LG_800X200.png" ,Curiosity Now
-https://amg00170-amg00170c1-lg-ca-3479.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.dmake=[DEVICE_MAKE]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99912010/600x200.png?type=white_cropped" ,Super Channel Hearties
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99912010&ads.xumo_streamId=99912010&ads.channelId=99912010&ads.csid=lgchannels_ca_hearties_ssai&ads.channelName=hearties_ca&ads.xumo_contentName=SuperchannelHeartiesCA&ads.xumo_contentId=3965&ads.xumo_providerName=SuperchannelHeartiesCA&ads.xumo_providerId=3965&ads.content_category=IAB1-7&ads.content_genre=Romance,Entertainment,Drama,Family,GD,GV&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=1&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99912011/600x200.png?type=white_cropped" ,Super Channel Uncovered
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99912011&ads.xumo_streamId=99912011&ads.channelId=99912011&ads.ad_tag_id=51480&ads.csid=lgchannels_ca_uncovered_ssai&ads.channelName=uncovered_ca&ads.xumo_contentName=SuperChannelUncoveredCA&ads.xumo_contentId=3977&ads.xumo_providerName=SuperChannelUncoveredCA&ads.xumo_providerId=3977&ads.content_category=IAB1-7&ads.content_genre=Drama,Crime,GD,Entertainment,GV,SM&ads.content_language=en&ads.content_rating=14A&ads.coppa=1&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/BellMedia/CTVMovies_LG_FAST_Logo_400x200-NEW.png" ,CTV Movies
-https://amg00089-bellmedia-amg00089c17-lg-ca-9431.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvmovies-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/BellMedia/CTVCrime_LG_FAST_Logo_400x200-NEW.png" ,CTV Crime
-https://amg00089-bellmedia-amg00089c16-lg-ca-9432.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvcrime-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/bctgl/CTVGridlock_LG_FAST_Logo.png" ,CTV Gridlock
-https://amg00089-bellmedia-amg00089c7-lg-ca-3103.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvgridlock-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#EXTINF:-1 tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/btmbc/Mightiest_LG_FAST_Logo.png" ,The Mightiest by CTV
-https://amg00089-bellmedia-amg00089c5-lg-ca-3107.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-themightiestbyctv-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#EXTINF:-1 tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/bctho/CTVatHome_LG_FAST_Logo.png" ,CTV Home
-https://amg00089-bellmedia-amg00089c9-lg-ca-3224.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvhome-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#EXTINF:-1 tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/bmcgr/CTVGetsReal_Logo_370x200.png" ,CTV Gets Real
-https://amg00089-bellmedia-amg00089c15-lg-ca-5727.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvgetsreal-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992275/600x200.png?type=white_cropped" ,FilmRise Free Movies
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992275&ads.xumo_streamId=99992275&ads.channelId=99992275&ads.ad_tag_id=10509&ads.csid=lgchannels_ca_filmrisefreemovies_ssai&ads.channelName=filmrisefreemovies_ca&ads.xumo_contentName=FilmRise&ads.xumo_contentId=260&ads.xumo_providerName=FilmRise&ads.xumo_providerId=260&ads.content_category=IAB1-5&ads.content_genre=Movies&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992306/600x200.png?type=white_cropped" ,FilmRise True Crime
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992306&ads.xumo_streamId=99992306&ads.channelId=99992306&ads.ad_tag_id=20164&ads.csid=lgchannels_ca_filmrisetruecrime_ssai&ads.channelName=filmrisetruecrime_ca&ads.xumo_contentName=FilmRiseCA&ads.xumo_contentId=1082&ads.xumo_providerName=FilmRiseCA&ads.xumo_providerId=1082&ads.content_category=IAB1-7&ads.content_genre=entertainment&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992526/600x200.png?type=white_cropped" ,FilmRise Western
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992526&ads.xumo_streamId=99992526&ads.channelId=99992526&ads.ad_tag_id=117500&ads.csid=lgchannels_ca_filmrisewestern_ssai&ads.channelName=filmrisewestern_ca&ads.xumo_contentName=FilmRiseCA&ads.xumo_contentId=1082&ads.xumo_providerName=FilmRiseCA&ads.xumo_providerId=1082&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/691-LG-Logo-PNG-100x100_v4.png" ,CINEVAULT
-https://36b627c2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQ2luZXZhdWx0X0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/690-LG-Logo-PNG-100x100_v5.png" ,CINEVAULT: Westerns
-https://wurlgameshownetwork.global.transmit.live/hls/68e01744a4c94d3c295aaa50/v1/gsn_cinevault_westerns_1/lg_ca/latest/main/hls/playlist.m3u8?wurl_channel=690&wurl_name=CinevaultWesterns&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1043-LG-Logo-PNG-100x100_v3.png" ,CINEVAULT: Classics
-https://bbeb46f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQ2luZXZhdWx0Q2xhc3NpY3NfSExT/playlist.m3u8
+#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+#EXTINF:-1 group-title="Live" tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY" ,ABC
+https://tvpass.org/live/WABCDT1/sd
+#EXTINF:-1 group-title="Live" tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY" ,NBC
+https://tvpass.org/live/WNBCDT1/sd
+#EXTINF:-1 group-title="Live" tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY" ,CBS
+https://tvpass.org/live/WCBSDT1/sd
+#EXTINF:-1 group-title="Live" tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY" ,PBS
+https://tvpass.org/live/WNET/sd
+#EXTINF:-1 group-title="Live" tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia" ,CW
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
+#EXTINF:-1 group-title="Live" tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY" ,FOX
+https://tvpass.org/live/WNYWDT1/sd
+#EXTINF:-1 group-title="Live" tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed" ,ION
+https://tvpass.org/live/IONTVEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York" ,MeTV
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
+#EXTINF:-1 group-title="Live" tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey" ,MeTV Toons
+https://tvpass.org/live/metv-toons/sd
+#EXTINF:-1 group-title="Live" tvg-id="cnn" tvg-name="CNN US" ,CNN
+https://tvpass.org/live/CNN/sd
+#EXTINF:-1 group-title="Live" tvg-id="hln" tvg-name="HLN" ,HLN
+https://tvpass.org/live/HLN/sd
+#EXTINF:-1 group-title="Live" tvg-id="cnbc-usa" tvg-name="CNBC USA" ,CNBC
+https://tvpass.org/live/CNBC/sd
+#EXTINF:-1 group-title="Live" tvg-id="msnbc-usa" tvg-name="MSNBC USA" ,MSNBC
+https://tvpass.org/live/MSNBC/sd
+#EXTINF:-1 group-title="Live" tvg-id="newsmax-tv" tvg-name="NewsMax TV" ,NewsMax
+https://tvpass.org/live/NewsmaxTV/sd
+#EXTINF:-1 group-title="Live" tvg-id="fox-news" tvg-name="Fox News" ,Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
+#EXTINF:-1 group-title="Live" tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" ,BBC News
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+#EXTINF:-1 group-title="Live" tvg-id="sportsnet-east" tvg-name="Sportsnet (East)" ,Sportsnet East
+https://tvpass.org/live/sportsnet-east/sd
+#EXTINF:-1 group-title="Live" tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario" ,Sportsnet Ontario
+https://tvpass.org/live/sportsnet-ontario/sd
+#EXTINF:-1 group-title="Live" tvg-id="sportsnet-west" tvg-name="Sportsnet West" ,Sportsnet West
+https://tvpass.org/live/sportsnet-west/sd
+#EXTINF:-1 group-title="Live" tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific" ,Sportsnet Pacific
+https://tvpass.org/live/sportsnet-pacific/sd
+#EXTINF:-1 group-title="Live" tvg-id="sportsnet-360" tvg-name="Sportsnet 360" ,Sportsnet 360
+https://tvpass.org/live/sportsnet-360/sd
+#EXTINF:-1 group-title="Live" tvg-id="tsn1" tvg-name="TSN1" ,TSN1
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 group-title="Live" tvg-id="tsn2" tvg-name="TSN2" ,TSN2
+https://tvpass.org/live/tsn2/sd
+#EXTINF:-1 group-title="Live" tvg-id="tsn3" tvg-name="TSN3" ,TSN3
+https://tvpass.org/live/tsn3/sd
+#EXTINF:-1 group-title="Live" tvg-id="tsn4" tvg-name="TSN4" ,TSN4
+https://tvpass.org/live/tsn4/sd
+#EXTINF:-1 group-title="Live" tvg-id="tsn5" tvg-name="TSN5" ,TSN5
+https://tvpass.org/live/tsn5/sd
+#EXTINF:-1 group-title="Live" tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed" ,CMT
+https://tvpass.org/live/CMTEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed" ,Comedy Central
+https://tvpass.org/live/ComedyCentralEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast" ,FX Network
+https://tvpass.org/live/FXEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern" ,FXX
+https://tvpass.org/live/FXXEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="fx-movie-channel" tvg-name="FX Movie Channel" ,FX Movies
+https://tvpass.org/live/FXMovieChannel/sd
+#EXTINF:-1 group-title="Live" tvg-id="freeform-east-feed" tvg-name="Freeform East Feed" ,Freeform
+https://tvpass.org/live/FreeformEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed" ,Disney
+https://tvpass.org/live/DisneyChannelEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed" ,Disney XD
+https://tvpass.org/live/DisneyXDEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="tbs-east" tvg-name="TBS East" ,TBS
+https://tvpass.org/live/TBSEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed" ,TNT
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern" ,truTV
+https://tvpass.org/live/truTVEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA" ,TCM
+https://tvpass.org/live/TCMEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed" ,AMC
+https://tvpass.org/live/AMCEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed" ,USA
+https://tvpass.org/live/USANetworkEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed" ,Bravo
+https://tvpass.org/live/BravoEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed" ,Syfy
+https://tvpass.org/live/SyfyEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed" ,E!
+https://tvpass.org/live/EEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="bbc-america-east" tvg-name="BBC America East" ,BBC America
+https://tvpass.org/live/BBCAmericaEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="tv-land-eastern" tvg-name="TV Land Eastern" ,TV Land
+https://tvpass.org/live/tv-land-eastern/sd
+#EXTINF:-1 group-title="Live" tvg-id="game-show-network-east" tvg-name="Game Show Network East" ,GSN
+https://tvpass.org/live/game-show-network-east/sd
+#EXTINF:-1 group-title="Live" tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" ,A&E
+https://tvpass.org/live/AEEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern" ,TLC
+https://tvpass.org/live/TLCEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" ,Discovery
+https://tvpass.org/live/DiscoveryChannelEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD" ,C&I
+https://tvpass.org/live/CrimePlusInvestigation/sd
+#EXTINF:-1 group-title="Live" tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" ,History Channel
+https://tvpass.org/live/HistoryEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" ,NGO TV
+https://tvpass.org/live/NationalGeographicEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed" ,Showtime
+https://tvpass.org/live/ShowtimeEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern" ,Showtime2
+https://tvpass.org/live/Showtime2East/sd
+#EXTINF:-1 group-title="Live" tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed" ,CN
+https://tvpass.org/live/CartoonNetworkEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed" ,Nick
+https://tvpass.org/live/NickelodeonEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="nicktoons-east" tvg-name="Nicktoons East" ,Nicktoons
+https://tvpass.org/live/NicktoonsEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed" ,Hallmark
+https://tvpass.org/live/HallmarkChannelEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD" ,Hallmark Family
+https://tvpass.org/live/HallmarkDrama/sd
+#EXTINF:-1 group-title="Live" tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD" ,Hallmark Mystery
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed" ,Lifetime
+https://tvpass.org/live/LifetimeEast/sd
+#EXTINF:-1 group-title="Live" tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East" ,Lifetime Movies
+https://tvpass.org/live/LifetimeMoviesEast/sd
