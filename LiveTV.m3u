@@ -15,7 +15,7 @@ https://tvpass.org/live/WNYWDT1/sd
 https://tvpass.org/live/IONTVEast/sd
 #EXTINF:-1 group-title="Live" tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV" ,MeTV
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
-#EXTINF:-1 group-title="Live" tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV" ,MeTV Toons
+#EXTINF:-1 group-title="Live" tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons" ,MeTV Toons
 https://tvpass.org/live/metv-toons/sd
 #EXTINF:-1 group-title="Live" tvg-id="cnn" tvg-name="CNN" ,CNN
 https://tvpass.org/live/CNN/sd
@@ -85,9 +85,9 @@ https://tvpass.org/live/BravoEast/sd
 https://tvpass.org/live/SyfyEast/sd
 #EXTINF:-1 group-title="Live" tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E!" ,E!
 https://tvpass.org/live/EEast/sd
-#EXTINF:-1 group-title="Live" tvg-id="bbc-america-east" tvg-name="BBC America East" ,BBC America
+#EXTINF:-1 group-title="Live" tvg-id="bbc-america-east" tvg-name="BBC America" ,BBC America
 https://tvpass.org/live/BBCAmericaEast/sd
-#EXTINF:-1 group-title="Live" tvg-id="tv-land-eastern" tvg-name="TV Land Eastern" ,TV Land
+#EXTINF:-1 group-title="Live" tvg-id="tv-land-eastern" tvg-name="TV Land" ,TV Land
 https://tvpass.org/live/tv-land-eastern/sd
 #EXTINF:-1 group-title="Live" tvg-id="game-show-network-east" tvg-name="GSN" ,GSN
 https://tvpass.org/live/game-show-network-east/sd
