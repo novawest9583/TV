@@ -101,15 +101,15 @@ https://tvpass.org/live/DiscoveryChannelEast/sd
 https://tvpass.org/live/CrimePlusInvestigation/sd
 #EXTINF:-1 group-title="Live" tvg-id="history-channel-us-eastern-feed" tvg-name="History" ,History
 https://tvpass.org/live/HistoryEast/sd
-#EXTINF:-1 group-title="Live" tvg-id="national-geographic-us-eastern" tvg-name="NGO TV" ,NGO TV
+#EXTINF:-1 group-title="Live" tvg-id="national-geographic-us-eastern" tvg-name="National Geographic" ,National Geographic
 https://tvpass.org/live/NationalGeographicEast/sd
 #EXTINF:-1 group-title="Live" tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime" ,Showtime
 https://tvpass.org/live/ShowtimeEast/sd
 #EXTINF:-1 group-title="Live" tvg-id="showtime-2-eastern" tvg-name="Showtime2" ,Showtime2
 https://tvpass.org/live/Showtime2East/sd
-#EXTINF:-1 group-title="Live" tvg-id="cartoon-network-usa-eastern-feed" tvg-name="CN" ,CN
+#EXTINF:-1 group-title="Live" tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network" ,Cartoon Network
 https://tvpass.org/live/CartoonNetworkEast/sd
-#EXTINF:-1 group-title="Live" tvg-id="nickelodeon-usa-east-feed" tvg-name="Nick" ,Nick
+#EXTINF:-1 group-title="Live" tvg-id="nickelodeon-usa-east-feed" tvg-name="NickTV" ,NickTV
 https://tvpass.org/live/NickelodeonEast/sd
 #EXTINF:-1 group-title="Live" tvg-id="nicktoons-east" tvg-name="Nicktoons" ,Nicktoons
 https://tvpass.org/live/NicktoonsEast/sd
